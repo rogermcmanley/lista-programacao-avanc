@@ -1,0 +1,3 @@
+O terceiro elemento do vetor:
+
+*(pulo + 2);
